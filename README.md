@@ -3,10 +3,10 @@
 
 # File	Description
 
-file|desc
------------
-|bot_sber.ipynb|	Jupyter notebook for running the bot|
-|Main_notebook.ipynb|	Jupyter notebook for training models and data processing|
+|file|desc|
+|-----|------|
+|bot_sber.ipynb |	Jupyter notebook for running the bot|
+|Main_notebook.ipynb |	Jupyter notebook for training models and data processing|
 |final.csv	Final| processed dataset|
 |news.csv	Dataset| containing news articles|
 |train.csv	Dataset| containing stock quotes|
