@@ -51,6 +51,10 @@ Then using Optuna, I found the best hyperparameters and trained the XGBoost mode
 # New function
 I defined func that simulates trading, and calculates % of profit. With comission 0.015% the result was +4% profit (during 80 hours), with 0.03% comission - +1% profit.
 
+# Inference
+I created telegram bot (bot_sber.ipynb) that regularly sends predictions and parses stock quotes. This is just MVP.
+![image](https://github.com/iwance/sber_stocks_prediction/assets/165042795/14b04ff9-f3c3-4384-aa36-5ebbf3bc8a6d)
+
 
 
 
